@@ -1,0 +1,7 @@
+[package]
+name = "benchmark_runner"
+version = "0.1.0"
+authors = ["Harry Braviner <harry@layer6.ai>"]
+
+[dependencies]
+regex="1"
