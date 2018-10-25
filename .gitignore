@@ -1,0 +1,3 @@
+*.swp
+filegen/target
+filegen/**/*.rs.bk
